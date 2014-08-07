@@ -1,1 +1,1 @@
-`say coffee time`
+10.times {`say coffee time`}
